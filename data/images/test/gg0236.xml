@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Smoking</folder>
+	<filename>gg0236.jpg</filename>
+	<path>C:\Users\Abhijeet Kharade\Desktop\Training Data\Smoking\gg0236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3942</width>
+		<height>2628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>369</ymin>
+			<xmax>1555</xmax>
+			<ymax>1833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1269</xmin>
+			<ymin>461</ymin>
+			<xmax>1927</xmax>
+			<ymax>2147</ymax>
+		</bndbox>
+	</object>
+</annotation>
