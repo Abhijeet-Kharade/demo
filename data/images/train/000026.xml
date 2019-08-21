@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smoking</folder>
+	<filename>000026.jpg</filename>
+	<path>C:\Users\Abhijeet Kharade\Desktop\Training Data\Smoking\000026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>702</ymin>
+			<xmax>450</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>
